@@ -40,3 +40,10 @@ body {
   tr:nth-child(even) {
     background-color: #f9f9f9;
   }
+  
+  .logo {
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    margin-right: 10px;
+  }
